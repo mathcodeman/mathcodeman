@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working in IBM
+- 🌱 I’m currently learning Solidity, Java
+
 <!--START_SECTION:waka-->
 
 ```text
