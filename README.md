@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ```text
 Python       7 hrs 2 mins    ██████████▓░░░░░░░░░░░░░░   42.19 %
-JavaScript   6 hrs 41 mins   ██████████░░░░░░░░░░░░░░░   40.14 %
+JavaScript   6 hrs 41 mins   ██████████░░░░░░░░░░░░░░░   40.13 %
 JSON         1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
 YAML         53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
 Docker       43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
