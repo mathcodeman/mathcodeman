@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   7 hrs 12 mins   █████████████████████████   99.38 %
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+JavaScript   7 hrs 17 mins   ████████████████████████▒   97.27 %
+Git Config   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
