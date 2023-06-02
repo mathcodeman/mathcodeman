@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 JavaScript   17 hrs 55 mins  ███████████████████████░░   92.63 %
 Bash         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
 JSON         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
