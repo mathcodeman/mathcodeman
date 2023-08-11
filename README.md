@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   0 secs          ███████████████████░░░░░░   75.63 %
-JSON         0 secs          ██████░░░░░░░░░░░░░░░░░░░   24.37 %
+JavaScript   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
